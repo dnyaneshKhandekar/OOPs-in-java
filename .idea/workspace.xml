@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f286bb8f-494e-47f0-802e-50f0d6b4314f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo/ProtectedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo2/ProtectedDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Public_Demo/PublicDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Public_Demo/publicDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Public_Demo2/publicDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StaticConcept/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticConcept/StaticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WrapperClass_FinalKeyword/Wrapper_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WrapperClass_FinalKeyword/Wrapper_Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dnyaneshKhandekar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dnyaneshKhandekar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dnyaneshKhandekar/OOPs-in-java.git",
-    "accountId": "d4422166-2e4d-4f6f-bdba-fe0fdad453ff"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dnyaneshKhandekar/OOPs-in-java.git&quot;,
+    &quot;accountId&quot;: &quot;d4422166-2e4d-4f6f-bdba-fe0fdad453ff&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,6 +56,8 @@
     "Application.Objects.executor": "Run",
     "Application.ObjectsAndConstructor.executor": "Run",
     "Application.StaticDemo.executor": "Run",
+    "Application.publicDemo2.executor": "Run",
+    "Application.publicDemo3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -63,10 +68,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Access_Modifier.Public_Demo" />
       <recent name="ObjectsAndConstructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticDemo">
+  <component name="RunManager" selected="Application.publicDemo3">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StaticConcept.Main" />
       <module name="OOPs" />
@@ -76,13 +82,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects" />
-      <module name="OOPs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,12 +106,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="publicDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Access_Modifier.Public_Demo.publicDemo2" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Access_Modifier.Public_Demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="publicDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Access_Modifier.Public_Demo2.publicDemo3" />
+      <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Access_Modifier.Public_Demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.publicDemo3" />
+        <item itemvalue="Application.publicDemo2" />
         <item itemvalue="Application.StaticDemo" />
         <item itemvalue="Application.ObjectsAndConstructor" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Objects" />
       </list>
     </recent_temporary>
   </component>
