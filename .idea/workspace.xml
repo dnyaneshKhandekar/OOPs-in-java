@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f286bb8f-494e-47f0-802e-50f0d6b4314f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo/ProtectedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo2/ProtectedDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Public_Demo/PublicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Public_Demo/publicDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Access_Modifier/Public_Demo2/publicDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstraction_Interface/InterfaceSameNameVariableExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstraction_Interface/AbstractionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction_Interface/AbstractionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstraction_Interface/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction_Interface/InterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Abstraction_Interface/MultipleInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction_Interface/MultipleInterfaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo/ProtectedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo/ProtectedDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo2/ProtectedDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo2/ProtectedDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Super_This_keyword/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super_This_keyword/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Super_This_keyword/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super_This_keyword/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +55,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Child.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Objects.executor": "Run",
     "Application.ObjectsAndConstructor.executor": "Run",
+    "Application.ProtectedDemo2.executor": "Run",
     "Application.StaticDemo.executor": "Run",
     "Application.publicDemo2.executor": "Run",
     "Application.publicDemo3.executor": "Run",
@@ -72,13 +77,13 @@
       <recent name="ObjectsAndConstructor" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.publicDemo3">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StaticConcept.Main" />
+  <component name="RunManager" selected="Application.Child">
+    <configuration name="Child" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Super_This_keyword.Child" />
       <module name="OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StaticConcept.*" />
+          <option name="PATTERN" value="Super_This_keyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,9 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectsAndConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndConstructor.ObjectsAndConstructor" />
+    <configuration name="ProtectedDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Access_Modifier.Protected_Demo2.ProtectedDemo2" />
       <module name="OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Access_Modifier.Protected_Demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Child" />
+        <item itemvalue="Application.ProtectedDemo2" />
         <item itemvalue="Application.publicDemo3" />
         <item itemvalue="Application.publicDemo2" />
         <item itemvalue="Application.StaticDemo" />
-        <item itemvalue="Application.ObjectsAndConstructor" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
