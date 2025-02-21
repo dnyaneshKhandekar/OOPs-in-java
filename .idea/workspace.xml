@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f286bb8f-494e-47f0-802e-50f0d6b4314f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Abstraction_Interface/InterfaceSameNameVariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListDemo/Array_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/getter_setter/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction_Interface/AbstractionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction_Interface/AbstractionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction_Interface/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction_Interface/InterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction_Interface/MultipleInterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction_Interface/MultipleInterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo/ProtectedDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo/ProtectedDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo2/ProtectedDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Access_Modifier/Protected_Demo2/ProtectedDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super_This_keyword/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super_This_keyword/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Super_This_keyword/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Super_This_keyword/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,24 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Child.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Objects.executor": "Run",
-    "Application.ObjectsAndConstructor.executor": "Run",
-    "Application.ProtectedDemo2.executor": "Run",
-    "Application.StaticDemo.executor": "Run",
-    "Application.publicDemo2.executor": "Run",
-    "Application.publicDemo3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/khand/IdeaProjects/OOPs/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectsAndConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProtectedDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.publicDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.publicDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/khand/IdeaProjects/OOPs/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Access_Modifier.Public_Demo" />
